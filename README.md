@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **samir.aliyev@code.edu.az**
 
-<h3 align="left">Connect with me:</h3>
+<!---<h3 align="left">Connect with me:</h3>-->
 <p align="left">
 </p>
 
